@@ -10,7 +10,7 @@ import { HomeServiceService } from '../home-service.service';
 export class HomeComponent implements OnInit {
 
   myName: Name= {
-    name: "muhanad!"
+    name: "hello world"
   }
 
 
